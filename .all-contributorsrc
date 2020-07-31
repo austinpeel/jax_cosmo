@@ -23,6 +23,34 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "austinpeel",
+      "name": "Austin Peel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17024310?v=4",
+      "profile": "https://github.com/austinpeel",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "minaskar",
+      "name": "Minas Karamanis",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23280751?v=4",
+      "profile": "https://minaskaramanis.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dkirkby",
+      "name": "David Kirkby",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/185007?v=4",
+      "profile": "https://faculty.sites.uci.edu/dkirkby/",
+      "contributions": [
+        "code",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
